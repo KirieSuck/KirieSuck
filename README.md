@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index480x272.png"></img><br><br>
 
-<font size="12" face="Vampiro One">
+<font size="12" face="Segoe Print">
 
 <p>Hi, I'm Kirie! Welcome to my profile!</p>
 
