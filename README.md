@@ -1,6 +1,9 @@
 Hi, I'm Kirie! Welcome to my profile!
+
 I know some Python and Linux, but don't do very well.
+
 Other than that, I like rhythm-rich marching songs, as well as Galgames and Japanese anime with some erotic content.
+
 The avatar is a vampire ow!
 
 <!--
