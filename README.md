@@ -3,7 +3,7 @@
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index480x272.png"></img>
-</div><br>
+<br>
 
 <font size="12">
 
@@ -17,6 +17,7 @@
 
 </font>
 
+</div>
 <!--
 **KirieSuck/KirieSuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
