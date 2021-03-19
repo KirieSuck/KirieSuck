@@ -1,5 +1,5 @@
 <div align="center">
-![](https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index.png)
+<img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index.png"></img>
 </div>
 
 Hi, I'm Kirie! Welcome to my profile!
