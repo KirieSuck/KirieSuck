@@ -4,7 +4,7 @@ I know some Python and Linux, but don't do very well.
 
 Other than that, I like rhythm-rich marching songs, as well as Galgames and Japanese anime with some erotic content.
 
-Online identity is a vampire w!
+Online identity is a vampire Ow!
 
 <!--
 **KirieSuck/KirieSuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
