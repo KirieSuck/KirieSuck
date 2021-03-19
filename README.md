@@ -5,13 +5,17 @@
 <img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index480x272.png"></img>
 </div><br>
 
-Hi, I'm Kirie! Welcome to my profile!
+<font size="11" face="Vampiro+One">
 
-I know some Python and Linux, but don't do very well.
+<p>Hi, I'm Kirie! Welcome to my profile!</p>
 
-Other than that, I like rhythm-rich marching songs, as well as Galgames and Japanese anime with some erotic content.
+<p>I know some Python and Linux, but don't do very well.</p>
 
-Online identity is a vampire Ow!
+<p>Other than that, I like rhythm-rich marching songs, as well as Galgames and Japanese anime with some erotic content.
+
+<p>Online identity is a vampire Ow!</p>
+
+</font>
 
 <!--
 **KirieSuck/KirieSuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
