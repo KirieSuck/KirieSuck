@@ -1,3 +1,7 @@
+<div align="center">
+![](https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index.png)
+</div>
+
 Hi, I'm Kirie! Welcome to my profile!
 
 I know some Python and Linux, but don't do very well.
