@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap" rel="stylesheet">
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index480x272.png"></img><br>
+<img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index480x272.png"></img><br><br>
 
 <font size="12">
 
