@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index.png"></img>
-</div>
+</div><br>
 
 Hi, I'm Kirie! Welcome to my profile!
 
