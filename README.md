@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index.png"></img>
+<img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index480x272.png"></img>
 </div><br>
 
 Hi, I'm Kirie! Welcome to my profile!
