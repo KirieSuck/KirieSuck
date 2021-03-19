@@ -5,7 +5,7 @@
 <img src="https://cdn.jsdelivr.net/gh/kiriesuck/kiriesuck@master/index480x272.png"></img>
 </div><br>
 
-<font size="11" face="Vampiro+One">
+<font size="12" face="Vampiro+One">
 
 <p>Hi, I'm Kirie! Welcome to my profile!</p>
 
